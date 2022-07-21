@@ -4,7 +4,7 @@
 2) Selezionare tutti i Corsi di Laurea Magistrale del Dipartimento di Neuroscienze
     answer 2)
 
-3) Selezionare tutti i corsi in cui insegna Fulvio Amato (id=44)
+3) Selezionare tutti i corsi in cui insegna Fulvio Amato (id=44) 
     answer 3)
 
 4) Selezionare tutti gli studenti con i dati relativi al corso di laurea a cui sono iscritti e il relativo dipartimento, in ordine alfabetico per cognome e nome
