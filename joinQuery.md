@@ -14,7 +14,7 @@
     answer 5)
 
 6) Selezionare tutti i docenti che insegnano nel Dipartimento di Matematica (54)
-    answer 6)
+    answer 6) 
 
 7) BONUS: Selezionare per ogni studente quanti tentativi d’esame ha sostenuto per superare ciascuno dei suoi esami
-    answer 7)
+    answer 7) 
